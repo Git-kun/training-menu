@@ -47,6 +47,12 @@ td, th {
 	width: 30px;
 	height: 25px;
 }
+
+td:first-child {
+  width: 100px;
+  
+}
+
 th {
 	background: #f0e6cc;
 }
