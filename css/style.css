@@ -4,6 +4,12 @@
   flex-wrap: wrap;
   display: flex;
 }
+
+.container {
+  width: 90%;
+  max-width: 980px;
+  margin: auto;
+}
  
 .tab_class {
   width: calc(100%/5);
